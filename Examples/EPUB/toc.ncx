@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="rus">
+  <head>
+    <meta content="a2f17bb7-eefb-4b62-a42d-a4e9f6c150d2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.64.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Бундеслига ЧГК - 2015/16. Берлинский тур</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="umsQlH4C8keAGuzq8XvEmSH" playOrder="1">
+      <navLabel>
+        <text>Бундеслига ЧГК - 2015/16. Берлинский тур</text>
+      </navLabel>
+      <content src="index_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="uxpCuAyZ7nBM6R89YoNOTd5" playOrder="2">
+      <navLabel>
+        <text>1 тур</text>
+      </navLabel>
+      <content src="index_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="uzgoaZiPm3VTGsYMC9SSUK9" playOrder="3">
+      <navLabel>
+        <text>2 тур</text>
+      </navLabel>
+      <content src="index_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="ujsSSsdOgEz7sk5C6NsSYFD" playOrder="4">
+      <navLabel>
+        <text>3 тур</text>
+      </navLabel>
+      <content src="index_split_004.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

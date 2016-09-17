@@ -1,0 +1,41 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    panose-1: 2 15 5 2 2 2 4 3 2 4;
+    font-family: "Calibri";
+    src: url(fonts/Calibri.ttf)
+    }
+@font-face {
+    panose-1: 2 15 7 2 3 4 4 3 2 4;
+    font-family: "Calibri";
+    src: url(fonts/Calibri-Bold.ttf);
+    font-weight: bold
+    }
+@font-face {
+    panose-1: 2 15 3 2 2 2 4 3 2 4;
+    font-family: "Calibri";
+    src: url(fonts/Calibri-Light.ttf);
+    font-weight: 300
+    }
+@font-face {
+    panose-1: 2 15 5 2 2 2 4 10 2 4;
+    font-family: "Calibri";
+    src: url(fonts/Calibri-Italic.ttf);
+    font-style: italic
+    }
+@font-face {
+    panose-1: 2 15 7 2 3 4 4 10 2 4;
+    font-family: "Calibri";
+    font-style: italic;
+    src: url(fonts/Calibri-Bold-Italic.ttf);
+    font-weight: bold
+    }
+@font-face {
+    panose-1: 2 15 3 2 2 2 4 3 2 4;
+    font-family: "Calibri";
+    font-style: italic;
+    src: url(fonts/Calibri-Light-Italic.ttf);
+    font-weight: 300
+    }
